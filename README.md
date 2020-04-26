@@ -15,6 +15,6 @@ If you want larger rectangles to be filled, tweak in the fillRect / clearRect th
 Keep in might that you need to keep the proportions across the 2 of them.
 
 ### Demo
-![Farmers Market Finder Demo](demo/gameofLifeish.gif)
+![Pixel propagation](gameofLifeish.gif)
 
 Nevertheless, as this came from the idea to reproduce the Game of Life as a tribute, R.I.P John Horton Conway!
